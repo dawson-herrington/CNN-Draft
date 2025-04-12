@@ -1,0 +1,4 @@
+CNN.py
+
+pip install tensorflow
+tenpip install tensorflow-cpu
